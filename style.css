@@ -1,11 +1,21 @@
 .menuButton {
+    flex: 1;
+    gap: 50px;
+    padding-left: 30px;
+    padding-left: 30px;
+}
+
+.logo{
+    flex:1;
+    color:aliceblue;
+    padding-left: 30px;
+    padding-left: 30px;
 
 }
 
 #banner {
-    background-color: blue;
-    padding: 30px;
-    text-align: center;
+    background-color: #1f2937;
+    text-align: left;
     margin-bottom: 10px;
 }
 
