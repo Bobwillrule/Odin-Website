@@ -2,23 +2,44 @@
     flex: 1;
     gap: 50px;
     padding-left: 30px;
-    padding-left: 30px;
+    padding-right: 30px;
+    color: #E5E7EB;
 }
 
 .logo{
     flex:1;
     color:aliceblue;
     padding-left: 30px;
-    padding-left: 30px;
+    padding-right: 30px;
 
 }
 
 #banner {
     background-color: #1f2937;
     text-align: left;
-    margin-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 0;
+}
+
+#top-mid{
+    background-color: #1f2937;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 0;
 }
 
 .flex-container {
   display: flex;
 }
+
+.intro-title{
+    margin: 0;
+    color: aliceblue;
+}
+.intro-text {
+    margin: 0;
+    color: aliceblue;
+}
+
