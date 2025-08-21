@@ -1,0 +1,14 @@
+.menuButton {
+
+}
+
+#banner {
+    background-color: blue;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.flex-container {
+  display: flex;
+}
